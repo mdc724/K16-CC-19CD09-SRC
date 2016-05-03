@@ -1,0 +1,10 @@
+ <table class="table table-striped table-bordered">
+	<thead>
+		<tr>
+			<th>Installation</th>
+			<th>State</th>
+		</tr>
+		</thead>
+		<tbody>
+		</tbody>
+</table>
