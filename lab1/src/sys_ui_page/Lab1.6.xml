@@ -1,0 +1,4 @@
+<tr ng-class="{'incomplete': hasEvents}">
+	<td>Are events with "MyApp" in the source field being created in the Event table (em_event)?</td>
+	<td>{{hasEvents === true ? "Yes" : "No"}}</td>
+</tr>

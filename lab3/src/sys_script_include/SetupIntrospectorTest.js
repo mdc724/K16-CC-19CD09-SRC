@@ -1,0 +1,1 @@
+gs.info(new global.JSON().encode(new SetupIntrospector().getCurrentSetup()));
